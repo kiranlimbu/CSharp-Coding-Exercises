@@ -7,10 +7,10 @@ namespace singleDigitSum
         static void Main(string[] args)
         {
             /* break given integer, add them, if sum is single digit return esle break again */
-            Console.WriteLine(string.Join(" ", singleDigitSum(0)));
+            Console.WriteLine(string.Join(" ", singleDigit(5271)));
         }
 
-        public static int singleDigitSum(int x)
+        public static int singleDigit(int x)
         {
             int sum = 0;
             int check = 10;
