@@ -11,7 +11,7 @@
 - [ ] RomanToInteger
 - [ ] NumberIsPalindrome
 - [ ] Rotate Array
-- [ ] Reverse Integer
+- [X] Reverse Integer
 - [X] Plus One
 - [ ] Longest Common Prefix
 - [ ] Jewels and Stones
