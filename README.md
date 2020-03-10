@@ -5,46 +5,46 @@
 -------------------------------
 ###### Arrays and Strings:
 
-- [ ] LeetCode TwoSum
-- [ ] LeetCode ValidPalindrome
-- [ ] LeetCode RomanToInteger
-- [ ] LeetCode NumberIsPalindrome
-- [ ] LeetCode Rotate Array
-- [ ] LeetCode Reverse Integer
-- [ ] LeetCode Plus One
-- [ ] LeetCode Longest Common Prefix
-- [ ] LeetCode Jewels and Stones
-- [ ] LeetCode Binary Search
-- [ ] LeetCode Single Number
-- [ ] LeetCode Reverse words in a String
-- [ ] Pattern Matching
-- [ ] LeetCode Squares of a Sorted Array
-- [ ] LeetCode Unique Morse Code Words
-- [ ] LeetCode FizzBuzz
-- [ ] LeetCode Long Pressed Name
-- [ ] LeetCode Fibonacci Sequence using recursion and memoization
-- [ ] LeetCode Tribonacci Sequence
-- [ ] LeetCode Climbing Stairs
-- [ ] LeetCode Sum of Square numbers
-- [ ] LeetCode Sum of smallest member of an array
-- [ ] LeetCode Valid Perfect Square
-- [ ] LeetCode Valid Parentheses
-- [ ] LeetCode Merge Two Sorted Lists
-- [ ] LeetCode Palindrome Linked List
-- [ ] LeetCode Reverse Linked List ii
-- [ ] LeetCode Number of Islands
-- [ ] LeetCode SearchMatrix ii
-- [ ] LeetCode Find Intersection
-- [ ] LeetCode Merge Sorted Array
-- [ ] LeetCode Happy Number
-- [ ] LeetCode Add Digits
-- [ ] LeetCode Is Subsequence
-- [ ] LeetCode Reverse Vowels in String
-- [ ] LeetCode Remove Vowels in String
-- [ ] LeetCode Reverse Words in String iii
-- [ ] LeetCode Set Matrix Zeros
-- [ ] LeetCode Longest Substring with Unique Characters
-- [ ] LeetCode Add Two Numbers
+- [ ] TwoSum
+- [ ] ValidPalindrome
+- [ ] RomanToInteger
+- [ ] NumberIsPalindrome
+- [ ] Rotate Array
+- [ ] Reverse Integer
+- [X] Plus One
+- [ ] Longest Common Prefix
+- [ ] Jewels and Stones
+- [ ] Binary Search
+- [ ] Single Number
+- [ ] Reverse words in a String
+- [ ] Matching
+- [ ] Squares of a Sorted Array
+- [ ] Unique Morse Code Words
+- [X] FizzBuzz
+- [ ] Long Pressed Name
+- [ ] Fibonacci Sequence using recursion and memoization
+- [ ] Tribonacci Sequence
+- [ ] Climbing Stairs
+- [ ] Sum of Square numbers
+- [ ] Sum of smallest member of an array
+- [ ] Valid Perfect Square
+- [ ] Valid Parentheses
+- [ ] Merge Two Sorted Lists
+- [ ] Palindrome Linked List
+- [ ] Reverse Linked List ii
+- [ ] Number of Islands
+- [ ] SearchMatrix ii
+- [ ] Find Intersection
+- [ ] Merge Sorted Array
+- [ ] Happy Number
+- [ ] Add Digits
+- [ ] Is Subsequence
+- [ ] Reverse Vowels in String
+- [ ] Remove Vowels in String
+- [ ] Reverse Words in String iii
+- [ ] Set Matrix Zeros
+- [ ] Longest Substring with Unique Characters
+- [ ] Add Two Numbers
 
 
 ###### Sorting
