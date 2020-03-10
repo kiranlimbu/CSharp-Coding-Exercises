@@ -16,7 +16,7 @@
 - [ ] Longest Common Prefix
 - [ ] Jewels and Stones
 - [ ] Binary Search
-- [ ] Single Number
+- [X] Single Number
 - [ ] Reverse words in a String
 - [ ] Matching
 - [ ] Squares of a Sorted Array
