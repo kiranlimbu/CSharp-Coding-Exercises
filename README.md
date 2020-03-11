@@ -7,6 +7,7 @@
 
 - [X] TwoSum
 - [X] Number of Steps to Reduce a Number to Zero
+- [X] Palindrome Number
 - [ ] ValidPalindrome
 - [ ] RomanToInteger
 - [ ] NumberIsPalindrome
