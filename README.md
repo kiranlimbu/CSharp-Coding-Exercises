@@ -37,7 +37,7 @@
 - [ ] SearchMatrix ii
 - [ ] Find Intersection
 - [ ] Merge Sorted Array
-- [ ] Happy Number
+- [X] Happy Number
 - [ ] Add Digits
 - [ ] Is Subsequence
 - [ ] Reverse Vowels in String
