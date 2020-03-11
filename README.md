@@ -5,7 +5,7 @@
 -------------------------------
 ###### Arrays and Strings:
 
-- [ ] TwoSum
+- [X] TwoSum
 - [X] Number of Steps to Reduce a Number to Zero
 - [ ] ValidPalindrome
 - [ ] RomanToInteger
