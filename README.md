@@ -75,9 +75,3 @@
 ###### Linked Lists
 - [ ] Reverse Singly Linked List (ReverseSinglyLinkedList.cs)
 - [ ] Reverse Doubly Linked List (ReverseDoublyLinkedList.cs)
-
-
-#### CRACKING THE CODING INTERVIEW
-
-- [ ] Cracking the Coding Interview PermutationIsPalindrome (cciPermutationIsPalindrome.cs)
-- [ ] Cracking the Coding Interview URLify (cciURLify.cs)
