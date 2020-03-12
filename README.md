@@ -50,15 +50,16 @@
 
 
 ###### Sorting
+- [X] Bubble sort
 - [X] Selection sort
 - [ ] Quick sort
 - [ ] Merge sort
-- [ ] Bubble sort
 
 
 ###### Searching
 - [ ] Binary Search (lcBinarySearach.cs)
 - [ ] Linear Search
+
 
 ### DATA STRUCTURES
 ---------------
