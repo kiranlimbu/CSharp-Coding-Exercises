@@ -5,10 +5,10 @@
 -------------------------------
 ###### Arrays and Strings:
 
-- [X] TwoSum
+- [X] Two Sum
 - [X] Number of Steps to Reduce a Number to Zero
 - [X] Palindrome Number
-- [ ] ValidPalindrome
+- [X] Valid Palindrome
 - [ ] RomanToInteger
 - [ ] NumberIsPalindrome
 - [ ] Rotate Array
