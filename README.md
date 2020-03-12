@@ -50,10 +50,11 @@
 
 
 ###### Sorting
+- [X] Selection sort
 - [ ] Quick sort
 - [ ] Merge sort
 - [ ] Bubble sort
-- [ ] Selection sort
+
 
 ###### Searching
 - [ ] Binary Search (lcBinarySearach.cs)
