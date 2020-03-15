@@ -9,7 +9,7 @@
 - [X] Number of Steps to Reduce a Number to Zero
 - [X] Palindrome Number
 - [X] Valid Palindrome
-- [ ] RomanToInteger
+- [X] Lucky Numbers in Matrix
 - [ ] NumberIsPalindrome
 - [ ] Rotate Array
 - [X] Reverse Integer
