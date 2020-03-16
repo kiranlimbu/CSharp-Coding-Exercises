@@ -73,5 +73,5 @@
 - [ ] Leet Code Lemonade Change
 
 ###### Linked Lists
-- [ ] Singly Linked List (LinkedListExercise.cs)
+- [X] Singly Linked List (LinkedListExercise.cs)
 - [ ] Reverse Doubly Linked List (ReverseDoublyLinkedList.cs)
