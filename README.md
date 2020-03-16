@@ -1,7 +1,7 @@
 ### My practice with and solutions to common algorithms and data structures.
 
 
-#### LEETCODE
+#### LEETCODE PROBLEM
 -------------------------------
 ###### Arrays and Strings:
 
