@@ -66,7 +66,7 @@
 ###### Binary Trees
 
 ###### Stacks
-- [ ] Leet Code Min Stack
+- [X] Leet Code Min Stack
 
 ###### Queues
 - [ ] Leet Code Range Sum Query
