@@ -39,6 +39,7 @@
 - [ ] Find Intersection
 - [ ] Merge Sorted Array
 - [X] Happy Number
+- [X] Rank Team by Votes
 - [ ] Add Digits
 - [ ] Is Subsequence
 - [ ] Reverse Vowels in String
