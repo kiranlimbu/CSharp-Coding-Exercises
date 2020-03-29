@@ -1,53 +1,46 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace LuckyNumbersMatrix
+namespace LeetCode5368
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int[][] given = {
+            int[] arr = { 19,12,11,14,18,8,6,6,13,9,8,3,10,10,1,10,5,12,13,13,9 };
 
-                new int[] {1,10, 4, 2},
-                new int[] {9,3,8,7},
-                new int[] {15,16,17,12}
-
-            };
-
-            Console.WriteLine(string.Join(" ", LuckyNumbers(given)));
-
-            Console.ReadLine();
+            Console.WriteLine(FindLucky(arr));
         }
-        public static IList<int> LuckyNumbers(int[][] matrix)
-        {
-            List<int> maxCol = new List<int>() { };
-            List<int> lucky = new List<int>() { };
 
-            // find max in the column
-            for (int col = 0; col < matrix[0].Length; col++)
+        public static int FindLucky(int[] arr)
+        {
+            var dict = new Dictionary<int, int>();
+
+            for (int i = 0; i < arr.Length; i++)
             {
-                int x = 0;
-                for (int row = 0; row < matrix.Length; row++)
+                if (dict.ContainsKey(arr[i]))
                 {
-                    x = Math.Max(matrix[row][col], x);
+                    dict[arr[i]]++;
                 }
-                maxCol.Add(x);
+                else
+                {
+                    dict.Add(arr[i], 1);
+                }
             }
 
-            // find min in the row
-            for (int i = 0; i < matrix.Length; i++)
+            var sort = from item in dict orderby item.Value descending select item;
+
+            int lucky = -1;
+            foreach (KeyValuePair<int, int> item in sort)
             {
-                if (maxCol.Contains(matrix[i].Min()))
+                if (item.Key == item.Value)
                 {
-                    lucky.Add(matrix[i].Min());
+                    return item.Key;
                 }
             }
             return lucky;
-
         }
     }
 }
