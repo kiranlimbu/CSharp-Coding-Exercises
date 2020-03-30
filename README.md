@@ -15,7 +15,7 @@
 - [ ] Binary Search
 - [X] Single Number
 - [X] FizzBuzz
-- [ ] Long Pressed Name
+- [X] Count Number of Teams
 - [ ] Fibonacci Sequence using recursion and memoization
 - [ ] Tribonacci Sequence
 - [ ] Climbing Stairs
