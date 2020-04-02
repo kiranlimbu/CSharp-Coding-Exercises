@@ -12,6 +12,7 @@
 - [X] Find Lucky Integer in Array
 - [X] Reverse Integer
 - [X] Plus One
+- [X] Add Two Numbers
 - [ ] Binary Search
 - [X] Single Number
 - [X] FizzBuzz
