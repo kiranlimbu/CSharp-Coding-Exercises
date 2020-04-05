@@ -13,6 +13,7 @@
 - [X] Reverse Integer
 - [X] Plus One
 - [X] Add Two Numbers
+- [X] Minimum Subsequence
 - [ ] Binary Search
 - [X] Single Number
 - [X] FizzBuzz
