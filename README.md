@@ -25,7 +25,7 @@
 - [ ] Sum of Square numbers
 - [ ] Sum of smallest member of an array
 - [X] Design Underground System
-- [ ] Valid Parentheses
+- [X] Valid Parentheses
 - [ ] Merge Two Sorted Lists
 - [ ] Palindrome Linked List
 - [ ] Reverse Linked List ii
