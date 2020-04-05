@@ -14,6 +14,7 @@
 - [X] Plus One
 - [X] Add Two Numbers
 - [X] Minimum Subsequence
+- [X] Number of Steps to Reduce a Number in Binary Representation
 - [ ] Binary Search
 - [X] Single Number
 - [X] FizzBuzz
