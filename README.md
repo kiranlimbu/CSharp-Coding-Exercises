@@ -9,6 +9,7 @@
 - [X] Number of Steps to Reduce a Number to Zero
 - [X] Palindrome Number
 - [X] Valid Palindrome
+- [X] Longest Palindromic Substring
 - [X] Find Lucky Integer in Array
 - [X] Reverse Integer
 - [X] Plus One
@@ -53,7 +54,7 @@
 
 
 ###### Searching
-- [ ] Binary Search (lcBinarySearach.cs)
+- [ ] Binary Search
 - [ ] Linear Search
 
 
@@ -70,4 +71,4 @@
 
 ###### Linked Lists
 - [X] Singly Linked List (LinkedListExercise.cs)
-- [ ] Reverse Doubly Linked List (ReverseDoublyLinkedList.cs)
+- [ ] Reverse Doubly Linked List
