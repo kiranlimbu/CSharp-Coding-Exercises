@@ -16,6 +16,7 @@
 - [X] Add Two Numbers
 - [X] Minimum Subsequence
 - [X] Number of Steps to Reduce a Number in Binary Representation
+- [X] Queries on a Permutation with Key
 - [ ] Binary Search
 - [X] Single Number
 - [X] FizzBuzz
