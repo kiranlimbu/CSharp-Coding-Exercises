@@ -21,7 +21,7 @@
 - [X] FizzBuzz
 - [X] Count Number of Teams
 - [ ] Fibonacci Sequence using recursion and memoization
-- [ ] Tribonacci Sequence
+- [X] String Matching in an Array
 - [ ] Climbing Stairs
 - [ ] Sum of Square numbers
 - [ ] Sum of smallest member of an array
