@@ -73,4 +73,5 @@
 ###### Linked Lists
 - [X] Singly Linked List (LinkedListExercise.cs)
 - [X] Reverse Singly Linked List (ReverseLinkedList.cs)
+- [X] Sort Singly Linked List (SortLinkedList.cs)
 - [ ] Reverse Doubly Linked List
