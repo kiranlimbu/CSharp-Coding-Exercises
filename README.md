@@ -21,6 +21,7 @@
 - [X] Single Number
 - [X] FizzBuzz
 - [X] Count Number of Teams
+- [X] Count Primes
 - [ ] Fibonacci Sequence using recursion and memoization
 - [X] String Matching in an Array
 - [ ] Climbing Stairs
