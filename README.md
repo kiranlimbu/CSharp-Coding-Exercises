@@ -17,7 +17,7 @@
 - [X] Minimum Subsequence
 - [X] Number of Steps to Reduce a Number in Binary Representation
 - [X] Queries on a Permutation with Key
-- [ ] Binary Search
+- [X] Number of Islands
 - [X] Single Number
 - [X] FizzBuzz
 - [X] Count Number of Teams
