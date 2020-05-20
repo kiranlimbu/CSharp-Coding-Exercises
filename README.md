@@ -43,7 +43,7 @@
 - [ ] Remove Vowels in String
 - [ ] Reverse Words in String iii
 - [ ] Set Matrix Zeros
-- [ ] Longest Substring with Unique Characters
+- [X] Longest Substring without Repeating Characters
 - [ ] Add Two Numbers
 
 
