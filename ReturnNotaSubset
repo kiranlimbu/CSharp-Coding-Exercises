@@ -1,0 +1,39 @@
+public class Solution {
+    public IList<int> PeopleIndexes(IList<IList<string>> favoriteCompanies) {
+        
+        Dictionary<string, List<int>> map = new Dictionary<string, List<int>>();
+        IList<int> result = new List<int>();
+        
+        
+        int count = favoriteCompanies.Count;
+        for (int i=0; i<count; i++) {
+            
+            foreach (var item in favoriteCompanies[i]) {
+                if (!map.ContainsKey(item)) {
+                    map.Add(item, new List<int>());
+                }
+                map[item].Add(i);
+            }
+            
+        }
+        
+        HashSet<int> sets = new HashSet<int>();
+        for (int i=0; i<count; i++) {
+            
+            sets = new HashSet<int>(map[favoriteCompanies[i][0]]);
+            for (int j=1; j<favoriteCompanies[i].Count; j++) {
+                
+                sets.IntersectWith(map[favoriteCompanies[i][j]]);
+                //Console.WriteLine(string.Join(" ", sets));
+                if (sets.Count == 1)
+                    break;
+            }
+            
+            if (sets.Count == 1)
+                result.Add(i);
+                
+        }
+        
+        return result;
+    }
+}
