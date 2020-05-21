@@ -34,7 +34,7 @@
 - [ ] Reverse Linked List ii
 - [X] Largest Number
 - [ ] SearchMatrix ii
-- [ ] Find Intersection
+- [X] Is Not a Subset of another List
 - [ ] Merge Sorted Array
 - [X] Happy Number
 - [X] Rank Team by Votes
