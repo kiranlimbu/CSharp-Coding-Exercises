@@ -1,7 +1,7 @@
 public class Solution {
     public IList<int> PeopleIndexes(IList<IList<string>> favoriteCompanies) {
         
-        Dictionary<string, List<int>> map = new Dictionary<string, List<int>>();
+        Dictionary<string, List<int>> map = new Dictionary<string, List<int>>(); // stores company name and index they occur in
         IList<int> result = new List<int>();
         
         
@@ -23,8 +23,7 @@ public class Solution {
             sets = new HashSet<int>(map[favoriteCompanies[i][0]]);
             for (int j=1; j<favoriteCompanies[i].Count; j++) {
                 
-                sets.IntersectWith(map[favoriteCompanies[i][j]]);
-                //Console.WriteLine(string.Join(" ", sets));
+                sets.IntersectWith(map[favoriteCompanies[i][j]]); // leaves common number, removes the rest
                 if (sets.Count == 1)
                     break;
             }
